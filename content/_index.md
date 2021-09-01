@@ -3,8 +3,9 @@ date: "2021-08-30T18:27:58+01:00"
 title: "Practical thoughts"
 ---
 
-> A map of the world that does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing. And when Humanity lands there, it looks out, and seeing a better country, sets sail. Progress is the realisation of utopias.  
-> _Oscar Wilde_
+{{< blockquote author="Oscar Wilde" >}}
+A map of the world that does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing. And when Humanity lands there, it looks out, and seeing a better country, sets sail. Progress is the realisation of utopias.
+{{</ blockquote >}}
 
 Hi. My name is Monarch Wadia.
 
