@@ -25,7 +25,7 @@ And that's the problem... a habit that's invisible can be a dangerous friend to 
 
 This is where personal demons hide all the time -- in the invisible corners of your mind. This is where the troubles that truly make us suffer find their reserves of energy.
 
-Fighting these bad habits -- or, more colorfully, these demons -- is a matter of constant vigilance and regular changes of perspective. **Mindfulness meditation**, i.e. staring at things as they unfold, lets you see things that you hadn't noticed before.**Regular reflection** can also help you catch patterns which you hadn't noticed before. **Asking for feedback** from others can help you see things from a different point of view.
+Fighting these bad habits -- or, more colorfully, these demons -- is a matter of constant vigilance and regular changes of perspective. **Mindfulness meditation**, i.e. staring at things as they unfold, lets you see things that you hadn't noticed before. **Regular reflection** can also help you catch patterns which you hadn't noticed before. **Asking for feedback** from others can help you see things from a different point of view.
 
 But even after seeing these patterns, they are difficult to fight. How do you fight these demons once they have been revealed?
 
