@@ -2,6 +2,7 @@
 title: "Demons on autopilot."
 date: 2021-08-31T20:48:52-04:00
 draft: false
+description: "When habits go invisible, they can go rogue."
 ---
 
 Learning how to drive was, for me, like juggling plates.
@@ -18,7 +19,9 @@ But because it's invisible, it's out of sight and out of mind. It's easy to lose
 
 What _else_ is invisible to me? Well, I don't know, because it's invisible. Chances are, I've forgotten about it, too.
 
-And that's the problem... a habit that's invisible can be a dangerous friend to have.
+And that's the problem... a habit that's invisible can be a dangerous friend to have. When habits go invisible, they can go rogue, and you can forget they're operating on you. What's worse -- you might end up identifying with them so completely that, when they _do_ show up, they're seen as an integral part of you. Not as a behaviour to be groomed, but as a part of what makes you the person you are.
+
+(Yes, I am an excellent driver. Thank you very much.)
 
 This is where personal demons hide all the time -- in the invisible corners of your mind. This is where the troubles that truly make us suffer find their reserves of energy.
 
