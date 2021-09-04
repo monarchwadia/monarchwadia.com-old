@@ -1,8 +1,8 @@
 ---
-title: "Nature abhors a vacuum."
+title: "Nature abhors a vacuum. And what it has to do with Jewish mysticism"
 date: 2021-09-03T20:18:52-04:00
 draft: false
-description: "And what it has to do with Jewish mysticism."
+description: "All empty spaces must be filled. This is a basic pattern found in nature. But it is worth asking: what is vacuum?"
 ---
 
 All empty spaces must be filled. This is a basic pattern found in nature. But it is worth asking: what is vacuum?
