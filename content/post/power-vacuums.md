@@ -27,7 +27,7 @@ The innovators have a number of strategies:
 
 The number of strategies is practically infinite. And so, there is practically infinite room for ecological niches to be filled by life.
 
-The Jewish concept of Keplipah/Qliphoth comes to mind.
+The Jewish concept of Kelipah/Qliphoth comes to mind.
 
 When you're pursuing something worthwhile, you encounter obstacles. You encounter the Kelipah. The Kelipah is an evil or impure force that acts as an obstacle. It gets in the way.
 
