@@ -20,11 +20,14 @@ Applying for jobs is like passing through customs. There are multiple levels of 
 
 - How often do you customize your job applications?
 - How long do you take to apply to one job, on average?
+- What job boards do you use?
 
 # Quantity
 
 - How many jobs do you apply to every week? And what kinds of jobs do you apply to?
 - How many people do you network with every week? And what job title(s) do they generally hold?
+- How many screening calls do you get per week?
+- How many screening calls do you successfully pass per week?
 - How many 1st stage non-technical interviews do you get per week?
 - How many 1st stage non-technical interviews do you successfully pass per week?
 - How many 1st stage technical interviews (like Leetcode) do you get per week?
