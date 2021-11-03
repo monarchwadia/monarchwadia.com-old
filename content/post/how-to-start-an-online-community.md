@@ -19,7 +19,7 @@ Mintbean grew into community of 5000+ sofware developers in 18 months. Roughly 3
 
 I'm going to use gardening as a metaphor. If I make any obvious gardening-related mistakes, I apologize.
 
-## What kind of community do you want?
+# What kind of community do you want?
 
 The first step in having a beautiful garden is to decide what kind of garden you want. Will it be full of flowers? Or is it a Zen garden, full of beautiful pebbles and a few well-selected plants?
 
@@ -27,7 +27,7 @@ Similarly, you need to know what kind of community you want. Is this a place for
 
 We were very intentional about Mintbean. We very consciously started it as a hackathon-centered community. We wanted to help junior developers find jobs. It was designed from the beginning to be centered around our hackathons. Devs would come to Mintbean for the like-minded community, as well as the twin interest in software development and first careers.
 
-## What kinds of people do you want?
+# What kinds of people do you want?
 
 The second step in having a beautiful garden is to plan the kinds of plants and fixtures you will have in the garden. Will you have fruit-bearing trees? Or is it a cactus garden, full of exotic plants?
 
@@ -35,7 +35,7 @@ Similarly, in a community, you need to clearly define what kind of people you'll
 
 As mentioned before, we definitely wanted junior developers in the mix. We classify junior developers based on stack: most of our developers are frontend and full-stack focused, with a small minority being backend developers. A lot of our early audience (and even our current audience..) came from JavaScript backgrounds, but many also come from Python and Rails. We decided we would only focus on WEB developers rather than any kind of developer.
 
-## Where will you host your community?
+# Where will you host your community?
 
 The third step in having a beautiful garden is to source your materials and prepare the ground. Where will you buy your tools and soil? Will you be hiring help? You will draw out plans for what your garden will look like, and then get to work shaping the ground to suit your vision -- and maybe also to suit the unique needs of the plants you've chosen.
 
@@ -43,7 +43,7 @@ Similarly, in a community, you need to know what platform you'll host on. Will i
 
 We wanted a chatroom and not a forum, because we wanted to feel like a close-knit community where people made real friends, rather than an asynchronous place to correspond. We started Mintbean on Slack -- but quickly realize that Slack wasn't the right platform for us. We wanted infinite message history, which Slack didn't provide. We also didn't like Slack's vibes -- we knew we wanted to be a professional community, but Slack was _too_ professional. We eventually migrated to Discord, which was a great move given the informal nature of the community.
 
-## Where will you find your audience?
+# Where will you find your audience?
 
 The fourth step in having a beautiful garden is to buy and sow your seeds. Will you buy premium quality seeds? Will you forage them rather than buy them (and run the risk of low quality seeds)? Do you have a friend who can lend you some (and run the risk of depending on the friend forever)? Similarly, in a community, you will have to find your audience somewhere.
 
@@ -51,7 +51,7 @@ This is where a lot of budding communities fail, either from a bad supply of new
 
 At Mintbean, we found our initial audience on Facebook groups, LinkedIn groups and other Slack channels. We would visit other Slack dev groups and advertise our hackathons. Eventually, we grew and started attracting people via word-of-mouth. Eventually, we found that having a shareable ticket that could be shared on social media after registration was a very big way to grow our audience, too.
 
-## How will you care for your audience?
+# How will you care for your audience?
 
 The fifth step is to be watchful and nurturing. You must water your seeds and watch them sprout into sprouts. You must invest time and effort to care for the sprouts as they grow into blooming plants. In the beginning, it is wise to water your seeds by hand and do plenty of research on which seeds require how much water. That way, you build first-hand knowledge (some might say wisdom!) on how seeds like to be nurtured. Water is cheap, but time is not, so a mistake some people make is to choose convenience over mindfulness. Over time, you can invest in sprinklers and timed water dispensers, but you will never be an excellent and intuitive gardener if you don't know how each seed differs in its preferences for sun, soil, water and heat.
 
@@ -59,7 +59,7 @@ Similarly, each member of your audience must be tended and catered to. They are 
 
 In Mintbean, we really got to know people. I personally have spoken to at least 10% to 20% of our community, and have built real, lasting relationships with hundreds of community members. These relationships are mutually beneficial. They benefit from my knowledge and advice, while Mintbean benefits from having engaged and active members in the Discord. It might not be a scalable model -- but it's a model that is effective and that teaches you a lot about your community's membership. You can use that knowledge to grow your community (and provide more value) even more.
 
-## Once it starts, just watch, tend, iterate, and be vigilant.
+# Once it starts, just watch, tend, iterate, and be vigilant.
 
 The sixth and last step in having a beautiful garden is to let it grow, and prune where necessary. Most of the work of gardening is done by the garden itself. The flowers bloom, the bees pollinate, the worms till the soil, the roots seek out water. But sometimes, you want to weed your garden, or keep it clean and free of things that might harm your plants. This is the long game, and can take a lifetime.
 
@@ -67,7 +67,7 @@ Similarly, a community will grow and tend itself for the most part. If all the c
 
 As Mintbean grew, I found myself creating more and more systems for developers to stay engaged. Some things we did was start clubs, involve members of the community in those clubs, and stopped clubs which were not very popular.
 
-## Bonus: Fertilizer
+# Bonus: Fertilizer
 
 It's worth mentioning that a little bit of fertilizer goes a long way. Yes, it's a little expensive, but it makes a big difference.
 

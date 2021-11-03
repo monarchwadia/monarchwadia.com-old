@@ -5,7 +5,7 @@ draft: false
 description: "A method to streamline your job hunt process."
 ---
 
-## Why people don't apply to lots of jobs
+# Why people don't apply to lots of jobs
 
 Most people don't apply to lots of jobs because it's painful.
 
@@ -14,14 +14,14 @@ There are 2 main sources of pain during the job hunt.
 1. Rejections
 2. Lack of feedback (you don't know why you're being rejected)
 
-## How to apply to more jobs
+# How to apply to more jobs
 
 Therefore it stands to reason that, if you want to apply to more jobs, you need to do some combination of two things:
 
 1. Make rejections less painful
 2. Get more feedback
 
-## How to make rejections feel less painful
+# How to make rejections feel less painful
 
 In my experience, the pain of rejection has nothing to do with your personal skills, your self-esteem, or anything else. It just has to do with the average amount of time spent applying for a given job.
 
@@ -38,7 +38,7 @@ How do you do this?
 
 Using these tips, you should be able to bring the average time per application down to about 2-3 minutes. If you can do this, you'll be a machine, applying to about 20 to 30 jobs per hour. (holy smokes)
 
-## How to get more feedback
+# How to get more feedback
 
 I'm not a big fan of "getting feedback." I know vanishingly few people who are actually good at writing resumes. It's easy to get bad advice from people who don't know what they're doing (regardless of their job title, or how much people respect them.)
 
