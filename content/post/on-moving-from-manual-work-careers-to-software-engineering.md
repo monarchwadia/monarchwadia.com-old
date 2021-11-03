@@ -1,6 +1,6 @@
 ---
 title: "On moving from manual work careers to software engineering"
-date: 2021-11-03T16:00:00-04:00
+date: 2021-11-02T12:00:00-04:00
 draft: false
 description: "For people who are coming into software engineering from a previous manual-work career, software engineering feels VERY different. A lot of this difference comes from the fact that software engineering is knowledge work."
 ---
