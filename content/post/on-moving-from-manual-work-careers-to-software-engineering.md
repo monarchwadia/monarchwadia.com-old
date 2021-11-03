@@ -2,6 +2,7 @@
 title: "On moving from manual-work careers to software engineering."
 date: 2021-11-03T17:48:52-04:00
 draft: false
+description: "For people who are coming into software engineering from a previous manual-work ("MW") career, software engineering feels VERY different. A lot of this difference comes from the fact that software engineering is knowledge work ("KW")."
 ---
 
 For people who are coming into software engineering from a previous manual-work ("MW") career, software engineering feels VERY different. A lot of this difference comes from the fact that software engineering is knowledge work ("KW").
